@@ -1,0 +1,10 @@
+main: me.hybridplague.welcomemessage.WelcomeMessage
+api-version: 1.13
+author: HybridPlague
+
+name: ${project.name}
+version: ${project.version}
+description: ${project.description}
+
+commands:
+  hi:

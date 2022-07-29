@@ -1,0 +1,10 @@
+main: me.hybridplague.welcomemessage.WelcomeMessage
+api-version: 1.13
+author: HybridPlague
+
+name: WelcomeMessage
+version: 0.0.1-SNAPSHOT
+description: A simple welcoming message command with random text.
+
+commands:
+  hi:
